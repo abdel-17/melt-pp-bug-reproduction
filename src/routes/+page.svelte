@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { createToggle, melt } from "@melt-ui/svelte";
 
 	let pressed = $state(false);
